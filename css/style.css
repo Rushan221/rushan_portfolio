@@ -92,6 +92,12 @@ small {
     color: var(--primary-color);
 }
 
+.skill-pill img {
+    height: 2rem;
+    width: 2rem;
+    margin-right: .5rem;
+}
+
 .experience-item {
     position: relative;
     padding-left: 30px;
