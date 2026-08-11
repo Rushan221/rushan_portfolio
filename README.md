@@ -44,13 +44,3 @@ Pick one of the methods below:
 - GitHub: https://github.com/Rushan221
 
 ---
-
-If you'd like, I can also:
-
-- add a short contributing guide and an MIT `LICENSE` file,
-- optimize and compress the profile image and remote background images,
-- or create a simple GitHub Actions workflow that automatically deploys to GitHub Pages when you push to `master`.
-
-Requirements coverage:
-
-- Analyze codebase and create README: Done — `README.md` added to repository root.
